@@ -1,0 +1,247 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins, Arial, Helvetica, sans-serif;
+}
+
+header {
+    margin: 35px 0px 120px 35px;
+}
+
+header a {
+    text-decoration: none;
+    color: #17233D;
+    font-weight: 400;
+    margin: 0px 20px;
+}
+
+header button {
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    left: 420px;
+    color: white;
+    background-color: #6FBF44;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+section  {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+section aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+section aside h1 {
+    width: 582px;
+    font-size: 62px;
+    font-weight: 800;
+    color: #161A49;
+}
+
+section aside p {
+    color: #4B505A;
+    width: 493px;
+}
+
+section aside a {
+    text-decoration: none;
+    color: #6FBF44;
+}
+
+
+
+JO
+Jorge Oliveira Dos Santos há 4 meses
+
+* {
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.link-header {
+    
+    font-weight: 400px;
+    line-height: 21px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #989d98;
+    margin-right: 32px;
+
+   }
+
+   .button-header {
+    background: #008000;
+    border: 1px solid #4cb538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+ }
+
+ .logo-image {
+    margin: 163px 0 0 123px;  
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+}
+
+p {
+    margin-top: 47px ;
+    margin-bottom: 55px;
+    width: 493px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 33px;
+  letter-spacing: 0.5px;
+  color: #4b505a;
+}
+
+.button-main {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color:#6FBF44;
+    cursor: pointer;
+    background: transparent;
+cursor: pointer;
+    
+}
+
+
+
+
+
+
+JO
+Jorge Oliveira Dos Santos há 4 meses
+
+* {
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.link-header {
+    
+    font-weight: 400px;
+    line-height: 21px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #989d98;
+    margin-right: 32px;
+
+   }
+
+   .button-header {
+    background: #008000;
+    border: 1px solid #4cb538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+ }
+
+ .logo-image {
+    margin: 163px 0 0 123px;  
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+}
+
+p {
+    margin-top: 47px ;
+    margin-bottom: 55px;
+    width: 493px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 33px;
+  letter-spacing: 0.5px;
+  color: #4b505a;
+}
+
+.button-main {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color:#6FBF44;
+    cursor: pointer;
+    background: transparent;
+cursor: pointer;
+    
+}
